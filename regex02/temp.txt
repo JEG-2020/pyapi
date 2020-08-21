@@ -1,0 +1,1 @@
+Welcome to the simple HTTP response parser. Where should we search (ex: https://alta3.com)?
